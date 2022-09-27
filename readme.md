@@ -4,4 +4,4 @@
 [Live coding examples](live-coding/)
 
 ## Övningar
-1.[Exercise_](exercises/exercise_seo.md)
+1.[SEO övning](exercises/exercise_seo.md)
