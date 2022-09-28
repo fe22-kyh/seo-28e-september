@@ -1,5 +1,5 @@
 # Övning Best pizza
-Ladda ner innehållet i [best pizza](assets/best_pizza/)
+Ladda ner innehållet i [best pizza](https://github.com/fe22-kyh/seo-28e-september/tree/main/exercises/assets/best-pizza)
 
 Skapa en bättre sökoptimering för best-pizza. Det du kan göra är att
 - Förbättra utseende
