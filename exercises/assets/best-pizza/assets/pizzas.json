@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vesuvio",
+    "text": "En väldigt god pizza",
+    "image": "vesuvio.jpg"
+  },
+  {
+    "name": "Mamma mia",
+    "text": "En väldigt god pizza",
+    "image": "mammamia.jpg"
+  },
+  {
+    "name": "capricciosa",
+    "text": "an awesome pizza",
+    "image": "capricciosa.jpg"
+  }
+]
