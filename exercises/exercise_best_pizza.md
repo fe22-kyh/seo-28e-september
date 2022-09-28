@@ -11,7 +11,7 @@ Skapa en bättre sökoptimering för best-pizza. Det du kan göra är att
 Prova gärna att implementera era lösningar för landningssidan och använd (google lighthouse)[https://developer.chrome.com/docs/lighthouse/overview/] för att testa SEO. Tänk på att sidan är gjord för en mobilvy.
 
 ### Level up
-Lägg upp sidan som en (github page)[https://pages.github.com/].
+Lägg upp sidan som en [github page](https://pages.github.com/).
 
 ## Material
 - [SEO 101](https://moz.com/beginners-guide-to-seo)
